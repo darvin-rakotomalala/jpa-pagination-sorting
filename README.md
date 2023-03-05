@@ -1,5 +1,5 @@
 ##  Spring Data JPA | Pagination et Sorting
-Dans ce repo, nous allons voir des exemples pagination et sorting de Spring Data JPA - Spring Boot.
+Dans ce repo, nous allons voir des exemples pagination et sorting de Spring Data JPA - Spring Boot 3.
 
 ### Technologies
 ---
